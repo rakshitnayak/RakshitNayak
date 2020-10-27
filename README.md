@@ -21,3 +21,6 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rd.sonn/)
   [<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="3.5%"/>](https://twitter.com/rdsonn)
 
+![Rakshit github stats](https://github-readme-stats.vercel.app/api?username=rakshitnayak&show_icons=true&theme=dark&count_private=true)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitnayak&theme=dark&hide_langs_below=4&layout=compact'/>  
+
