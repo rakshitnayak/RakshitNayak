@@ -7,7 +7,7 @@
 
 ### Bonjour 👋, I'm Rakshit Nayak
 
-- 🏫 I'm currently a Third Year ECE student at @klsGit ,Belgaum
+- 🏫 I'm currently a 3rd Year ECE student at @klsGit ,Belgaum
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning C++ 
 - 🙌I’m looking to collaborate on Backend based web Applications
