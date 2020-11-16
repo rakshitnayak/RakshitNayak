@@ -8,11 +8,9 @@
 ### Bonjour 👋, I'm Rakshit Nayak
 
 - 🏫 I'm currently a 3rd Year ECE student at @klsGit ,Belgaum
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning C++ 
-- 🙌I’m looking to collaborate on Backend based web Applications
-- 💬 Ask me about Any Tech Related Stuff
-- 😄 Pronouns: HE/his
+- ✨ Development
+- 🙌 I’m looking to collaborate on Backend based web Applications
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: Your crush sees you as 20% more attractive than you think you are 🥺.
 
 - 📫 How to reach me:
