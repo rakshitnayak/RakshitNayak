@@ -8,7 +8,7 @@
 ### Bonjour 👋, I'm Rakshit Nayak
 <br />
 
-Hi, I'm Rakshit Nayak, a student  currently studying Electronics and Communications Engineering. Full stack developer who focuses on writing clean ,elegant and efficient code.
+ A student currently studying Electronics and Communications Engineering. Full stack developer who focuses on writing clean ,elegant and efficient code.
 
 <br />
 
