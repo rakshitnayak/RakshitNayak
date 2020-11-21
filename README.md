@@ -5,18 +5,17 @@
 
 
 
-### Bonjour 👋, I'm Rakshit Nayak
+### Bonjour  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rakshit Nayak
 <br />
+A student currently studying Electronics and Communications Engineering & Full stack developer who focuses on writing clean ,elegant and efficient code.
 
- A student currently studying Electronics and Communications Engineering. Full stack developer who focuses on writing clean ,elegant and efficient code.
-
-<br />
-
+***
 
 - 🏫 Btech in ECE [ @KLS Gogte Institute of Technology](https://git.edu/)
 - ✨ Development
 - 🙌 I’m looking to collaborate on Backend based web Applications
-- ⚡ I like and hate bugs
+- 📝 Hobbies: Travelling, Making Youtube videos, Gaming.
+- ⚡ Fun fact: I have Love/hate relationship with programming 
 
 - 💻 **Tools and Tech**
  <br><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
