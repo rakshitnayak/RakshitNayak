@@ -6,9 +6,8 @@
 
 
 <br />
-I am Rakshit ,Electronics and communication undergrad 3rd year student & Selfthaught Full stack developer who focuses on writing clean ,elegant and efficient code.
-
-***
+I am Rakshit ,Electronics and communication undergrad 3rd year student & Selfthaught Full stack developer who focuses on writing clean 
+and efficient code.
 
 
 ***
