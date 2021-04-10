@@ -5,22 +5,11 @@
 
 
 
-### Bonjour  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rakshit Nayak
 <br />
-A student currently studying Electronics and Communications Engineering & Selfthaught Full stack developer who focuses on writing clean ,elegant and efficient code.
+I am Rakshit ,Electronics and communication undergrad 3rd year student & Selfthaught Full stack developer who focuses on writing clean ,elegant and efficient code.
 
 ***
 
-- 🏫 Btech in ECE [ @KLS Gogte Institute of Technology](https://git.edu/)
-- ✨ Development
-- 🙌 I’m looking to collaborate on Backend based web Applications
-- 📝 Hobbies: Travelling, Making Youtube videos, Gaming.
-- ⚡ Fun fact: I have Love/hate relationship with programming 
-- 📫 How to reach me:
-  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rakshit-nayak-515932182/)
-  <a href="mailto:rdsonnn@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rd.sonn/)
-  [<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="3.5%"/>](https://twitter.com/rdsonn)
 
 ***
 
